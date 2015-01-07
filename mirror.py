@@ -1,5 +1,3 @@
-#based on https://github.com/jeysonmc/python-google-speech-scripts and make magazine universal translator
-
 #PRIVATE_KEY: acquire for google speech and wolfram
 
 import pyaudio
